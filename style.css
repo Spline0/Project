@@ -198,6 +198,7 @@ h1 {
 .card-image {
     height: 600px;
     width: 1044px;
+    padding-top: 10px;
 }
 
 .card-info {
@@ -338,11 +339,7 @@ footer .nav-link {
         padding-top: 0;
         align-items: center;
         height: 1310px;
-    }
-
-    .card {
-        padding: 10px 0 0 0;
-    }
+    }      
     .p {
         width: 295px;
         height: auto;
