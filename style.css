@@ -302,7 +302,7 @@ footer .nav-link {
     }
     .subtitle {
         font-size: 32px;
-        padding: 47px;
+        padding-left: 47px;
     }
     .footer-content {
         display: flex;
