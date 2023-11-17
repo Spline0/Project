@@ -335,9 +335,13 @@ footer .nav-link {
         flex-direction: column;
         margin: 0 auto;
         width: 360px;
-        padding-top: 10px;
+        padding-top: 0;
         align-items: center;
         height: 1310px;
+    }
+
+    .card {
+        padding-top: 10px;
     }
     .p {
         width: 295px;
