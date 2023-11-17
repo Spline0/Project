@@ -171,11 +171,20 @@ h1 {
     flex-direction: column;
 }
 
+.dess1 {
+    display: flex;
+    border-bottom: 1px solid #A1A6B4;
+    padding-bottom: 24px;
+    justify-content: space-between;
+    width: 506px;
+    align-items: center;
+}
+
 .dess {
     display: flex;
     border-bottom: 1px solid #A1A6B4;
     align-items: center;
-    padding-top: 20px;
+    padding-top: 24px;
     padding-bottom: 24px;
     justify-content: space-between;
     width: 506px;
